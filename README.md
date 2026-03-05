@@ -21,7 +21,6 @@ A modern, recruiter-focused developer portfolio built with **Next.js App Router*
 ## 🖼️ Screenshot Previews
 
 ### Current Homepage Preview
-> Using the existing repository preview asset to keep updates text-only and avoid binary-file patch issues.
 
 ![Current homepage preview](public/images/thumbnail.png)
 
