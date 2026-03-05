@@ -11,21 +11,21 @@ A modern, recruiter-focused developer portfolio built with **Next.js App Router*
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 **Production deployment:**
 - https://mrglasswillbreak.vercel.app
 
 ---
 
-## 🖼️ Screenshot Previews
+## Screenshot Previews
 
-### Current Homepage Preview
+### Homepage Preview
 
-![Current homepage preview](public/images/thumbnail.png)
+![homepage preview](public/images/thumbnail.png)
 
-### About/Profile Visual
-![About/profile preview](public/images/me.png)
+### Author Image
+![Author Image](public/images/me.png)
 
 ---
 
@@ -39,7 +39,7 @@ A modern, recruiter-focused developer portfolio built with **Next.js App Router*
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Core
 - **Framework:** Next.js 15 (App Router)
@@ -59,21 +59,27 @@ A modern, recruiter-focused developer portfolio built with **Next.js App Router*
 
 ---
 
-## 📚 Case-Study Style Highlights
+## Case-Study Style Highlights
 
 ### 1) Personal Brand Landing Experience
-**Challenge:** Present technical depth and personality in one cohesive, high-quality browsing flow.  
-**Approach:** Structured the portfolio into modular sections (Hero, About, Skills, Experience, Projects, Contact) with responsive composition and subtle animations.  
+**Challenge:** Present technical depth and personality in one cohesive, high-quality browsing flow.
+
+**Approach:** Structured the portfolio into modular sections (Hero, About, Skills, Experience, Projects, Contact) with responsive composition and subtle animations.
+
 **Outcome:** Improved first impression quality and faster recruiter scan-ability.
 
 ### 2) Recruiter Conversion Signals
-**Challenge:** Reduce friction for hiring teams evaluating fit and availability.  
-**Approach:** Centralized profile content and surfaced practical hiring details directly in the contact experience.  
+**Challenge:** Reduce friction for hiring teams evaluating fit and availability.
+  
+**Approach:** Centralized profile content and surfaced practical hiring details directly in the contact experience.
+
 **Outcome:** Cleaner handoff from “portfolio viewer” to “outreach-ready candidate.”
 
 ### 3) SEO & Discovery Foundation
 **Challenge:** Ensure the site is discoverable and looks professional when shared.  
+
 **Approach:** Implemented metadata, Open Graph + Twitter cards, robots/sitemap routes, and structured data helpers.  
+
 **Outcome:** Better indexing readiness and stronger link-sharing previews.
 
 ---
@@ -114,7 +120,7 @@ A modern, recruiter-focused developer portfolio built with **Next.js App Router*
 
 ---
 
-## 🚀 Local Development
+## Local Development
 
 ```bash
 npm install
@@ -125,7 +131,7 @@ Open `http://localhost:3000`.
 
 ---
 
-## ✅ Build & Quality Checks
+## Build & Quality Checks
 
 ```bash
 npm run lint
@@ -147,7 +153,7 @@ QEV_API_KEY=your_quickemailverification_key
 
 ---
 
-## 🛠️ Personalization Guide
+## Personalization Guide
 
 Update these files to adapt the portfolio to your own profile:
 
@@ -158,7 +164,7 @@ Update these files to adapt the portfolio to your own profile:
 
 ---
 
-## 📬 Contact
+## Contact
 
 - GitHub: https://github.com/mrglasswillbreak
 - LinkedIn: https://www.linkedin.com/in/muhammed-abdulhadi-7b9ba2278
