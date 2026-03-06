@@ -8,7 +8,7 @@ export const projectsData = [
     tech: ["Next.js", "TypeScript", "Framer Motion"],
   },
   {
-    name: "calculator",
+    name: "Calculator",
     description:
       "Mobile and desktop friendly calculator with keyboard support, built with vanilla HTML, CSS, and JavaScript.",
     github_link: "https://github.com/mrglasswillbreak/calculator",
@@ -24,7 +24,7 @@ export const projectsData = [
     tech: ["JavaScript", "HTML", "CSS"],
   },
   {
-    name: "etch-a-sketch",
+    name: "Etch-A-Sketch",
     description:
       "Advanced, responsive Etch A Sketch web app with fluid drawing interactions across phones, tablets, and desktops.",
     github_link: "https://github.com/mrglasswillbreak/etch-a-sketch",
