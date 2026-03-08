@@ -32,7 +32,7 @@ interface GithubRepo {
 export const Projects = () => {
   const ref = useRef(null);
   const isInView = useInView(ref, {
-    once: false,
+    once: true,
     margin: "-80px",
     amount: 0.1,
   });
