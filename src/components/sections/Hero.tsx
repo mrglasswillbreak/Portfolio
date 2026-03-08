@@ -22,7 +22,7 @@ export const Hero = () => {
     <section
       id="hero"
       ref={ref}
-      className="min-h-screen flex items-center justify-start px-6 relative pt-28 sm:pt-32"
+      className="min-h-screen flex items-center justify-start px-6 relative pt-32 sm:pt-36"
     >
       <div className="absolute inset-0 bg-gradient-to-b from-primary/5 to-transparent pointer-events-none" />
 
@@ -35,7 +35,7 @@ export const Hero = () => {
         >
           <div className="space-y-6">
             <motion.h1
-              className={`${quentine.className} text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold leading-tight`}
+              className={`${quentine.className} text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight`}
               style={{ color: "hsl(var(--primary))" }}
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
