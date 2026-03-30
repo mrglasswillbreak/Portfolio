@@ -1,5 +1,13 @@
 export const projectsData = [
   {
+    name: "RosegoldHotels",
+    description:
+      "A professional hotel booking management system with Django backend, featuring secure user authentication, payment integration via Paystack, IoT monitoring, and responsive design for seamless booking experiences.",
+    github_link: "https://github.com/mrglasswillbreak/rosegoldHotels",
+    demo: "https://rosegoldhotels.onrender.com/",
+    tech: ["Django", "Python", "PostgreSQL", "Paystack"],
+  },
+  {
     name: "Portfolio",
     description:
       "A polished personal portfolio showcasing my work, built with modern UI motion, SEO metadata, and production-ready deployment.",
