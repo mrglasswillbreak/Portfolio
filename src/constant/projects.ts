@@ -8,6 +8,14 @@ export const projectsData = [
     tech: ["Django", "Python", "PostgreSQL", "Paystack"],
   },
   {
+    name: "photographyPortfolio",
+    description:
+      "Modern photography portfolio with built-in first-party analytics and a client accessible admin GUI for changing or updating site content.",
+    github_link: "https://github.com/mrglasswillbreak/photographyPortfolio",
+    demo: "https://photography-portfolio-amber-nine.vercel.app",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+  },
+  {
     name: "Portfolio",
     description:
       "A polished personal portfolio showcasing my work, built with modern UI motion, SEO metadata, and production-ready deployment.",
@@ -16,35 +24,11 @@ export const projectsData = [
     tech: ["Next.js", "TypeScript", "Framer Motion"],
   },
   {
-    name: "Calculator",
+    name: "GadgetsByTJ",
     description:
-      "Mobile and desktop friendly calculator with keyboard support, built with vanilla HTML, CSS, and JavaScript.",
-    github_link: "https://github.com/mrglasswillbreak/calculator",
-    demo: "https://mrglasswillbreak.github.io/calculator/",
-    tech: ["JavaScript", "HTML", "CSS"],
-  },
-  {
-    name: "RockPaperScissors",
-    description:
-      "A responsive rock paper scissors game featuring modular JavaScript logic, validation, and a clean UI.",
-    github_link: "https://github.com/mrglasswillbreak/RockPaperScissors",
-    demo: "https://mrglasswillbreak.github.io/RockPaperScissors/",
-    tech: ["JavaScript", "HTML", "CSS"],
-  },
-  {
-    name: "Etch-A-Sketch",
-    description:
-      "Advanced, responsive Etch A Sketch web app with fluid drawing interactions across phones, tablets, and desktops.",
-    github_link: "https://github.com/mrglasswillbreak/etch-a-sketch",
-    demo: "https://mrglasswillbreak.github.io/etch-a-sketch/",
-    tech: ["HTML", "CSS", "JavaScript"],
-  },
-  {
-    name: "Landing Page",
-    description:
-      "Responsive landing page built with HTML and CSS as part of The Odin Project. Focused on layout composition, Flexbox usage, and responsive design principles.",
-    github_link: "https://github.com/mrglasswillbreak/TOPLandingPage",
-    demo: "https://mrglasswillbreak.github.io/TOPLandingPage/",
-    tech: ["HTML", "CSS", "Responsive Design"],
+      "Your premier destination for mobile electronics and accessories, featuring a full admin panel with product management, image uploads, and site-wide settings.",
+    github_link: "https://github.com/mrglasswillbreak/GadgetsByTJ",
+    demo: "https://gadgets-by-tj.vercel.app",
+    tech: ["Next.js", "TypeScript", "Drizzle ORM", "Tailwind CSS"],
   },
 ];
