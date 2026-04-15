@@ -8,9 +8,9 @@ export const projectsData = [
     tech: ["Django", "Python", "PostgreSQL", "Paystack"],
   },
   {
-    name: "photographyPortfolio",
+    name: "PhotographyPortfolio",
     description:
-      "Modern photography portfolio with built-in first-party analytics and a client accessible admin GUI for changing or updating site content.",
+      "Modern photography portfolio with built-in first-party analytics and a client-accessible admin GUI for changing or updating site content.",
     github_link: "https://github.com/mrglasswillbreak/photographyPortfolio",
     demo: "https://photography-portfolio-amber-nine.vercel.app",
     tech: ["Next.js", "TypeScript", "Tailwind CSS"],
